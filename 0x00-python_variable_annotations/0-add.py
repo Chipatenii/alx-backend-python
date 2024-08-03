@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""
-This module contains a function that adds two floating point numbers.
-"""
+'''Task 0's module.
+'''
+
 
 def add(a: float, b: float) -> float:
     '''Adds two floating-point numbers.

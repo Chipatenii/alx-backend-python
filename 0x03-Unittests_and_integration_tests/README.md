@@ -1,10 +1,9 @@
 ---
-
 # 0x03-Unittests_and_integration_tests
 
 ## Overview
-
-This repository focuses on two essential testing methodologies in software development: **Unit Testing** and **Integration Testing**. Understanding the difference between these two types of tests and how to effectively implement them is crucial for ensuring the reliability and quality of your code.
+This repository focuses on two essential testing methodologies in software development: Unit Testing and Integration Testing.
+Understanding the difference between these two types of tests and how to effectively implement them is crucial for ensuring the reliability and quality of your code.
 
 ### Unit Testing
 Unit testing involves verifying that a particular function returns the expected results for a variety of input cases, including standard inputs and edge cases. The primary focus is on testing the logic defined within the function itself, isolating it from external dependencies by mocking calls to additional functions, especially those that involve network or database operations.
